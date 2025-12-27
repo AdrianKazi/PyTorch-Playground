@@ -11,9 +11,3 @@ architectures such as CNNs, RNNs, and GANs.
 
 The notebooks emphasize experimentation, ablation, and intuition-building rather than
 library-level abstraction or production-ready code.
-
-Conceptual structure and experimental flow in this repository closely follow notebooks
-from coursework by Mike X Cohen. The goal is to re-implement and reproduce the ideas,
-experiments, and training dynamics from scratch in PyTorch in order to fully internalize
-the underlying mechanisms. All code is written independently and adapted as part of the
-learning and exploration process.
