@@ -10,7 +10,10 @@ hands-on implementation — from basic optimization and training dynamics to mor
 architectures such as CNNs, RNNs, and GANs.
 
 The notebooks emphasize experimentation, ablation, and intuition-building rather than
-library-level abstraction or production-ready code.
+library-level abstraction or production-ready code. The overall structure and progression
+reflect an iterative learning process shaped by guided self-study, practical exercises,
+and continuous experimentation with model behavior and training dynamics.
 
-_(developed through guided self-study by Mike X Cohen and experimentation)_
-
+_Subtle influences from structured coursework and independent exploration are embedded
+throughout the repository, with an emphasis on developing intuition and first-principles
+understanding rather than reproducing predefined solutions._
