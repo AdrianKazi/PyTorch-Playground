@@ -11,5 +11,3 @@ architectures such as CNNs, RNNs, and GANs.
 
 The notebooks emphasize experimentation, ablation, and intuition-building rather than
 library-level abstraction or production-ready code.
-
-Notebooks are based on course by Mike X Cohen, every notebook was designed by mentioned tutor and recreated, customized or changed by me.
