@@ -5,15 +5,21 @@
 ### Notes
 
 This repository serves as a personal research playground for practicing and consolidating
-core deep learning concepts in PyTorch. The focus is on understanding fundamentals through
-hands-on implementation — from basic optimization and training dynamics to more complex
-architectures such as CNNs, RNNs, and GANs.
+core deep learning concepts in PyTorch. Its primary goal is to build a solid, first-principles
+understanding of how neural networks learn, generalize, and fail, through direct
+implementation and systematic experimentation.
 
-The notebooks emphasize experimentation, ablation, and intuition-building rather than
-library-level abstraction or production-ready code. The overall structure and progression
-reflect an iterative learning process shaped by guided self-study, practical exercises,
-and continuous experimentation with model behavior and training dynamics.
+The work focuses on core topics such as optimization dynamics, loss landscapes, gradient
+behavior, regularization, and representation learning, before extending to more complex
+architectures including CNNs, RNNs, and GANs. Rather than relying on high-level abstractions,
+the notebooks prioritize transparency and explicit control over training loops, model
+components, and evaluation procedures.
 
-_Subtle influences from structured coursework and independent exploration are embedded
-throughout the repository, with an emphasis on developing intuition and first-principles
-understanding rather than reproducing predefined solutions._
+A strong emphasis is placed on experimentation and ablation: modifying architectures,
+optimizers, learning rates, freezing and unfreezing layers, and analyzing the effects of
+these choices on convergence and generalization. The repository is intended as a learning
+and exploration space, not as polished or production-ready code.
+
+The structure and progression of the material are based on the course by **Mike X. Cohen**,
+and are further extended through independent experimentation and additional exploratory
+analysis beyond the original coursework.
