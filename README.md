@@ -11,3 +11,5 @@ architectures such as CNNs, RNNs, and GANs.
 
 The notebooks emphasize experimentation, ablation, and intuition-building rather than
 library-level abstraction or production-ready code.
+
+> Based on Mike X Cohen course
