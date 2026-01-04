@@ -20,6 +20,4 @@ optimizers, learning rates, freezing and unfreezing layers, and analyzing the ef
 these choices on convergence and generalization. The repository is intended as a learning
 and exploration space, not as polished or production-ready code.
 
-The structure and progression of the material are based on the course by **Mike X. Cohen**,
-and are further extended through independent experimentation and additional exploratory
-analysis beyond the original coursework.
+The structure and progression of the material are based on the course by **Mike X. Cohen**.
