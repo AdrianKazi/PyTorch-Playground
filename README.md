@@ -19,5 +19,3 @@ A strong emphasis is placed on experimentation and ablation: modifying architect
 optimizers, learning rates, freezing and unfreezing layers, and analyzing the effects of
 these choices on convergence and generalization. The repository is intended as a learning
 and exploration space, not as polished or production-ready code.
-
-The structure and progression of the material are based on the course by **Mike X. Cohen**.
